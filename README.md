@@ -15,7 +15,7 @@ This project focuses on exploring and visualizing Olympic Track & Field performa
 ## Dataset
 
 - **Source**: Enhanced Olympic Track & Field Results Dataset
-- **File**: `Cleaned_results.csv`
+- **File**: `Cleaned_results.xslx`
 - **Key Variables**:
   - Event name, Year, Athlete, Country, Medal, Performance metrics (e.g., seconds, meters).
 
@@ -57,9 +57,3 @@ This project focuses on exploring and visualizing Olympic Track & Field performa
 1. Clone the repository.
 2. Explore the Tableau workbooks for dashboards and storytelling visuals.
 3. Review the Python scripts for data preprocessing and scatterplot generation.
-
-## Screenshots
-Include screenshots of:
-- Scatterplot for a single event.
-- NYT-style visualization.
-- Interactive dashboards.
